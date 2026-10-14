@@ -221,7 +221,7 @@ Tailwind utility classes are used throughout. Update `src/components/Timer.tsx` 
 - No personal data collection
 - All data encrypted in transit via Supabase
 - Row Level Security ensures data isolation
-- Open source and auditable code
+- Open source and auditable code  
 
 ## License
 
@@ -229,8 +229,8 @@ MIT - Feel free to use and modify for your own projects
 
 ## Contributing
 
-We welcome contributions! Feel free to submit issues and pull requests to help improve FocusTime.
+We welcome contributions! Feel free  to submit issues and pull requests to help improve FocusTime.
 
 ---
 
-**Ready to focus?** Start your first pomodoro session today and watch your productivity soar! 🚀
+**Ready to focus?** Start your first pomodoro session today and watch your productivity soar 🚀
